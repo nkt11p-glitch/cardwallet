@@ -1,0 +1,16 @@
+{
+  "userSettings": {
+    "globalPermissionGrants": {
+      "allow": [
+        "unsandboxed(npx)",
+        "command($html)",
+        "command(mkdir)",
+        "command($content)",
+        "command(findstr)",
+        "command(dir)",
+        "command(git --version \u0026\u0026 gh --version)",
+        "command(git --version; gh --version)"
+      ]
+    }
+  }
+}
